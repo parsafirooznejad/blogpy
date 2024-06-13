@@ -1,3 +1,9 @@
 #virtualenviornment
-venv
+venv/
 
+
+#virtualenviornment
+db.sqlite3
+
+#migrations
+blog/migrations/
